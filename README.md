@@ -2,7 +2,7 @@
 
 > Az alap tartalmaz mindent, amely az órai feladatok elkészítéséhez szükséges.
 
-## Build
+## Build
 
 ```bash
 docker build -t <monogram>/vite

@@ -5,7 +5,7 @@
 ## Build
 
 ```bash
-docker build -t <monogram>/vite
+docker build -t <monogram>/vite .
 ```
 
 ## Futtatás

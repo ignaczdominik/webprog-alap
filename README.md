@@ -11,5 +11,5 @@ docker build -t <monogram>/vite .
 ## Futtatás
 
 ```
-docker run -d -it -v $(pwd):/app -p 8080:8080 --name vite <monogram>/vite
+docker run -it -v $(pwd):/app -p 8080:8080 --name vite <monogram>/vite
 ```
